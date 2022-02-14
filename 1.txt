@@ -1,2 +1,3 @@
 hello i am sachin from mumbai india
-python dev
+python
+javascript dev
