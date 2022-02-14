@@ -1,6 +1,6 @@
 hello i am sachin from mumbai india
 Full stack develoer
-python rmsw
+python rmswd
 
 python vmsd
 javascript dev 1
